@@ -11,3 +11,9 @@ data_validation:
   root_dir: C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_validation
   STATUS_FILE: C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_validation\status.txt
   ALL_REQUIRED_FILES: ["test","train", "validation"]
+
+
+data_transformation:
+  root_dir: C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_transformation
+  data_path: C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_ingestion\samsum_dataset
+  tokenizer_name: google/pegasus-cnn_dailymail
