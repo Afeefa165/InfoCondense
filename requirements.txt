@@ -7,16 +7,18 @@ py7zr
 pandas
 nltk
 tqdm
-PyYAML
+PyYAML~=6.0.1
 matplotlib
 torch
 notebook
 boto3
 mypy-boto3-s3
 python-box
-ensure
+ensure~=1.0.4
 fastapi
 uvicorn
 Jinja2
 
 -e .
+InfoCondense~=0.0.0
+setuptools~=70.2.0

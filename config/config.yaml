@@ -1,0 +1,8 @@
+artifacts_root : C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts
+
+data_ingestion:
+  root_dir: C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_ingestion
+  source_url : https://github.com/Afeefa165/Data/raw/main/samsum_datat.zip
+  local_data_file : C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_ingestion\data.zip
+  unzip_dir : C:\Users\afeef\OneDrive\Documents\PYTHON\InfoCondense\InfoCondenseTool\artifacts\data_ingestion
+
